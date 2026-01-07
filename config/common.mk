@@ -55,6 +55,10 @@ PRODUCT_PACKAGES += \
     FrameworkOverlayCustom \
     SettingsOverlayCustom
 
+#LMOFreeform and Sidebar
+PRODUCT_PACKAGES += \
+    LMOFreeform \
+    LMOFreeformSidebar
 # TouchGesture
 PRODUCT_PACKAGES += \
     TouchGestures
